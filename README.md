@@ -52,7 +52,7 @@ src/
 
 ```bash
 git clone https://github.com/juanchimaldonado/id90SeleniumJava.git
-cd your-repo
+cd id90SeleniumJava
 ```
 
 ### 2. Install dependencies
